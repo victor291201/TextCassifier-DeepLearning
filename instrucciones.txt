@@ -1,0 +1,5 @@
+para poder ejecutar el modelo es necesario que primero ejecute el comando:
+
+pip install -r requirements.txt
+
+datos adicionales:

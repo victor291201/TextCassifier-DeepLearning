@@ -1,0 +1,10 @@
+numpy
+pandas
+nltk
+unidecode
+matplotlib
+matplotlib
+seaborn
+WordCloud
+sklearn
+tensorflow
